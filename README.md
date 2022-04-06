@@ -10,3 +10,7 @@ collaborate to complete the content
 
 - [x] Created repository
 - [x] Updated content
+
+# Tutorial sesion 2
+
+Cambios con git
